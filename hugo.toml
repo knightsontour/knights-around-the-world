@@ -1,5 +1,5 @@
 baseURL = 'https://knightsontour.github.io/knights-around-the-world/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Knights Around the World — 2017–18'
 theme = "PaperMod"
 canonifyURLs = true
