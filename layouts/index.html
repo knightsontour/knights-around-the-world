@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div role="main" class="container">
+  <div class="row">
+    <div class="col-md-10 offset-md-1">
+      {{ with .Content }}<div class="content-section">{{ . }}</div>{{ end }}
+
+      <div class="trip-grid">
+        {{ $travel := .Site.GetPage "/travel" }}
+        {{ range $travel.Sections }}
+          {{ $img := .Params.image }}
+          {{ if not $img }}
+            {{ range .RegularPagesRecursive }}
+              {{ if and (not $img) .Params.image }}{{ $img = .Params.image }}{{ end }}
+            {{ end }}
+          {{ end }}
+          <a class="trip-tile" href="{{ .RelPermalink }}">
+            <div class="trip-thumb"{{ with $img }} style="background-image:url('{{ . | relURL }}')"{{ end }}></div>
+            <div class="trip-tile-body">
+              <h2 class="trip-tile-title">{{ .Title }}</h2>
+              {{ with .Params.subtitle }}<p class="trip-tile-desc">{{ . }}</p>{{ end }}
+              <span class="trip-tile-count">{{ len .RegularPagesRecursive }} chapter{{ if ne (len .RegularPagesRecursive) 1 }}s{{ end }}</span>
+            </div>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .trip-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1.5rem;margin:2rem 0 2.5rem}
+  .trip-tile{display:flex;flex-direction:column;border:1px solid rgba(128,128,128,.25);border-radius:12px;overflow:hidden;text-decoration:none!important;color:inherit;background:rgba(128,128,128,.05);transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease}
+  .trip-tile:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(0,0,0,.18);border-color:rgba(128,128,128,.5)}
+  .trip-thumb{aspect-ratio:16/9;background-size:cover;background-position:center;background-color:rgba(128,128,128,.15)}
+  .trip-tile-body{padding:1rem 1.15rem 1.25rem}
+  .trip-tile-title{margin:.1rem 0 .45rem;font-size:1.3rem;line-height:1.25}
+  .trip-tile-desc{margin:0 0 .75rem;opacity:.82;font-size:.95rem;line-height:1.4}
+  .trip-tile-count{font-size:.78rem;text-transform:uppercase;letter-spacing:.05em;opacity:.65}
+</style>
+{{ end }}

@@ -52,6 +52,23 @@ The theme is a git submodule. After a fresh clone:
 git submodule update --init --recursive
 ```
 
+## Adding a new trip
+
+1. Add the trip's content under `content/travel/<trip-slug>/` (an `_index.md` with
+   `title` + `subtitle`, plus one `.md` per chapter).
+2. It **auto-appears as a tile** on the homepage (tiles are generated from the trip
+   sections; the thumbnail is the trip's first chapter photo, or set `image` on the trip's
+   `_index.md` to choose one).
+3. Add it to the **Trips dropdown** by appending one block to `hugo.toml`:
+
+   ```toml
+   [[menu.main]]
+     parent = "trips"
+     name = "Big Lap 2024"
+     url = "/travel/big-lap-2024/"
+     weight = 2
+   ```
+
 ## Deploying
 
 See [CLOUDFLARE-SETUP.md](CLOUDFLARE-SETUP.md). Once connected, `git push` to `main` auto-deploys.
