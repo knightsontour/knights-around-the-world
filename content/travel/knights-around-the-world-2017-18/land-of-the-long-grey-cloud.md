@@ -5,7 +5,6 @@ slug: "land-of-the-long-grey-cloud"
 title: "06: Land of the long grey cloud"
 weight: 6
 image: "/assets/img_3126.jpg"
-bigimg: [{src: "/assets/img_3126.jpg", desc: ""}]
 ---
 
 

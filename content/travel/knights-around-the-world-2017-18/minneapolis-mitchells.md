@@ -5,7 +5,6 @@ slug: "minneapolis-mitchells"
 title: "27: Minneapolis Mitchells"
 weight: 27
 image: "/assets/img_3458.jpg"
-bigimg: [{src: "/assets/img_3458.jpg", desc: ""}]
 ---
 
 

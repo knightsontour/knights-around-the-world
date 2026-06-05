@@ -5,7 +5,6 @@ slug: "lazy-day"
 title: "12: Lazy Day"
 weight: 12
 image: "/assets/img_3148.jpg"
-bigimg: [{src: "/assets/img_3148.jpg", desc: ""}]
 ---
 
 

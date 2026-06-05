@@ -5,7 +5,6 @@ slug: "san-diego"
 title: "24: San Diego"
 weight: 24
 image: "/assets/img_3419.jpg"
-bigimg: [{src: "/assets/img_3419.jpg", desc: ""}]
 ---
 
 

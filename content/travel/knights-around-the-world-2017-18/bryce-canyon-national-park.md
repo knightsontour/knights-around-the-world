@@ -5,7 +5,6 @@ slug: "bryce-canyon-national-park"
 title: "20: Bryce Canyon National Park"
 weight: 20
 image: "/assets/c020220-4.jpg"
-bigimg: [{src: "/assets/c020220-4.jpg", desc: ""}]
 ---
 
 

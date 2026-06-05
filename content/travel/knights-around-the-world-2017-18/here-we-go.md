@@ -5,7 +5,6 @@ slug: "here-we-go"
 title: "05: Here we go!"
 weight: 5
 image: "/assets/image1.jpg"
-bigimg: [{src: "/assets/image1.jpg", desc: ""}]
 ---
 
 

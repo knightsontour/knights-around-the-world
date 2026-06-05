@@ -5,7 +5,6 @@ slug: "big-day"
 title: "21: BIG Day"
 weight: 21
 image: "/assets/c030553.jpg"
-bigimg: [{src: "/assets/c030553.jpg", desc: ""}]
 ---
 
 

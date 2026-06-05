@@ -5,7 +5,6 @@ slug: "vegas"
 title: "18: Vegas"
 weight: 18
 image: "/assets/b300005.jpg"
-bigimg: [{src: "/assets/b300005.jpg", desc: ""}]
 ---
 
 

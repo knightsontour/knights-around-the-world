@@ -5,7 +5,6 @@ slug: "rule-britannia-part-1"
 title: "33: Rule Britannia: Part 1"
 weight: 33
 image: "/assets/c240269.jpg"
-bigimg: [{src: "/assets/c240269.jpg", desc: ""}]
 ---
 
 

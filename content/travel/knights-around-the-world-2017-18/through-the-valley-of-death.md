@@ -5,7 +5,6 @@ slug: "through-the-valley-of-death"
 title: "16: Through the valley of death"
 weight: 16
 image: "/assets/b300361.jpg"
-bigimg: [{src: "/assets/b300361.jpg", desc: ""}]
 ---
 
 

@@ -5,7 +5,6 @@ slug: "las-vegas-teaser-elvis-lives"
 title: "17: Las Vegas teaser: Elvis lives"
 weight: 17
 image: "/assets/img_3274.jpg"
-bigimg: [{src: "/assets/img_3274.jpg", desc: ""}]
 ---
 
 

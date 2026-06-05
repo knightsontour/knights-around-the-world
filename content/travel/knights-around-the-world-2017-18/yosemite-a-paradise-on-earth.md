@@ -5,7 +5,6 @@ slug: "yosemite-a-paradise-on-earth"
 title: "13: Yosemite: a paradise on earth"
 weight: 13
 image: "/assets/b270029.jpg"
-bigimg: [{src: "/assets/b270029.jpg", desc: ""}]
 ---
 
 

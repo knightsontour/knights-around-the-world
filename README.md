@@ -29,12 +29,13 @@ date: 2017-11-21
 weight: 5                     # chapters sort by weight ascending (chronological)
 tags: [travel, usa]
 image: "/assets/imageN.jpg"   # thumbnail on listing pages
-bigimg: [{src: "/assets/imageN.jpg", desc: ""}]   # hero banner on the post
 ---
 ```
 
 - **Ordering**: `weight` (from the chapter number) → chapters list 01 → 34, oldest first.
-- **Covers**: `image` + `bigimg` are set to each chapter's first photo.
+- **Covers**: `image` (listing thumbnail) is set to each chapter's first photo.
+- **No hero banners**: do NOT add the `bigimg` hero-banner field. Steve's standing rule —
+  banner images are never published unless he explicitly asks for them on a given post.
 - **Per-trip contents**: each trip's `_index.md` page (e.g. `/travel/knights-around-the-world-2017-18/`)
   lists all that trip's chapters in order.
 

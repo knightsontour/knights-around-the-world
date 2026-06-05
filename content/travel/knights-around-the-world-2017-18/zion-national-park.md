@@ -5,7 +5,6 @@ slug: "zion-national-park"
 title: "19: Zion National Park"
 weight: 19
 image: "/assets/c020131.jpg"
-bigimg: [{src: "/assets/c020131.jpg", desc: ""}]
 ---
 
 

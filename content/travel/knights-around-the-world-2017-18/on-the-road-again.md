@@ -5,7 +5,6 @@ slug: "on-the-road-again"
 title: "15: On the road again"
 weight: 15
 image: "/assets/img_3181.jpg"
-bigimg: [{src: "/assets/img_3181.jpg", desc: ""}]
 ---
 
 

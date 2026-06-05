@@ -5,7 +5,6 @@ slug: "the-big-apple-part-2"
 title: "30: The Big Apple: Part 2"
 weight: 30
 image: "/assets/c160018.jpg"
-bigimg: [{src: "/assets/c160018.jpg", desc: ""}]
 ---
 
 

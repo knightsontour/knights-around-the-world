@@ -5,7 +5,6 @@ slug: "safely-in-san-fran"
 title: "07: Safely in San Fran"
 weight: 7
 image: "/assets/img_0161.jpg"
-bigimg: [{src: "/assets/img_0161.jpg", desc: ""}]
 ---
 
 

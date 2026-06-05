@@ -5,7 +5,6 @@ slug: "making-america-great-again"
 title: "28: Making America Great Again"
 weight: 28
 image: "/assets/img_0329.jpg"
-bigimg: [{src: "/assets/img_0329.jpg", desc: ""}]
 ---
 
 

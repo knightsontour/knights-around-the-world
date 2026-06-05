@@ -5,7 +5,6 @@ slug: "happy-thanksgiving-day"
 title: "09: Happy Thanksgiving Day"
 weight: 9
 image: "/assets/img_0164.jpg"
-bigimg: [{src: "/assets/img_0164.jpg", desc: ""}]
 ---
 
 

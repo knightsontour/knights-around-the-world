@@ -5,7 +5,6 @@ slug: "well-its-been-a-busy-few-days"
 title: "02: Well, it's been a busy few days!"
 weight: 2
 image: "/assets/903eb5b4-7470-4d84-9de1-7085000919b8.jpeg"
-bigimg: [{src: "/assets/903eb5b4-7470-4d84-9de1-7085000919b8.jpeg", desc: ""}]
 ---
 
 

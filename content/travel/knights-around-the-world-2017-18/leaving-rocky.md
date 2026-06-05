@@ -5,7 +5,6 @@ slug: "leaving-rocky"
 title: "03: Leaving Rocky"
 weight: 3
 image: "/assets/img_2606.jpg"
-bigimg: [{src: "/assets/img_2606.jpg", desc: ""}]
 ---
 
 

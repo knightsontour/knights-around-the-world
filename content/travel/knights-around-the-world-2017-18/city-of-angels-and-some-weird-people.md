@@ -5,7 +5,6 @@ slug: "city-of-angels-and-some-weird-people"
 title: "25: City of Angels (and some weird people)"
 weight: 25
 image: "/assets/c080021-1.jpg"
-bigimg: [{src: "/assets/c080021-1.jpg", desc: ""}]
 ---
 
 

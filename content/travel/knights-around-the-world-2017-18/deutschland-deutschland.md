@@ -5,7 +5,6 @@ slug: "deutschland-deutschland"
 title: "32: Deutschland, Deutschland"
 weight: 32
 image: "/assets/c190481.jpg"
-bigimg: [{src: "/assets/c190481.jpg", desc: ""}]
 ---
 
 

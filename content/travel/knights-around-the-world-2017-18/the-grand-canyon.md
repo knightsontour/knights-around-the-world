@@ -5,7 +5,6 @@ slug: "the-grand-canyon"
 title: "22: The Grand Canyon"
 weight: 22
 image: "/assets/img_3382.jpg"
-bigimg: [{src: "/assets/img_3382.jpg", desc: ""}]
 ---
 
 

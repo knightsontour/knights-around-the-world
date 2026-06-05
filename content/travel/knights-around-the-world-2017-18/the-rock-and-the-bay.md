@@ -5,7 +5,6 @@ slug: "the-rock-and-the-bay"
 title: "10: The Rock and The Bay"
 weight: 10
 image: "/assets/b250115.jpg"
-bigimg: [{src: "/assets/b250115.jpg", desc: ""}]
 ---
 
 

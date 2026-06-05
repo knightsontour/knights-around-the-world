@@ -5,7 +5,6 @@ slug: "route-66-and-joshua-tree"
 title: "23: Route 66 and Joshua Tree"
 weight: 23
 image: "/assets/pc050221.jpg"
-bigimg: [{src: "/assets/pc050221.jpg", desc: ""}]
 ---
 
 
