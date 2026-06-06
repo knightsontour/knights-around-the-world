@@ -1,0 +1,17 @@
+{{- /* Responsive TravelMap embed.
+       Usage: {{< travelmap src="https://knightsj.travelmap.net?map-only=1" >}}
+       Optional: height="550" (max px on desktop, default 550),
+                 title="..." (iframe a11y title).
+       Height is responsive: clamp(360px, 70vh, <height>px). */ -}}
+{{- $src := .Get "src" -}}
+{{- $height := .Get "height" | default "550" -}}
+{{- $title := .Get "title" | default "Interactive travel map" -}}
+{{- with $src }}
+<div class="travelmap-embed" style="margin:0 0 1.75rem;border-radius:12px;overflow:hidden;border:1px solid rgba(128,128,128,.25);line-height:0;">
+  <iframe src="{{ . }}" title="{{ $title }}" loading="lazy" allow="fullscreen"
+          style="display:block;width:100%;height:clamp(360px,70vh,{{ $height }}px);border:0;"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{- else -}}
+<!-- travelmap shortcode: no src provided -->
+{{- end -}}
