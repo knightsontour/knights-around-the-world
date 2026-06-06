@@ -5,7 +5,7 @@ subtitle: "Our Big Lap of Australia — a mid-life gap year, anti-clockwise, Eas
 
 Here's where we actually went — explore our whole Big Lap on the interactive map, then read the journey chapter by chapter below.
 
-{{< travelmap src="https://knightsj.travelmap.net?map-only=1" title="Knight Riders on Tour — Big Lap route map" >}}
+{{< travelmap src="https://knightsj.travelmap.net?map-only=1" height="1100" title="Knight Riders on Tour — Big Lap route map" >}}
 
 Back in 2012 we had planned a trip around Australia in our caravan but didn’t quite get there as things changed. Now, we have another chance to do it in our trusty motorhome “Knight Riders” and we couldn’t be more excited. A big focus for us this trip will be slowing down and taking in all this great country has to offer.
 
