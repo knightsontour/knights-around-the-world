@@ -2,6 +2,9 @@ baseURL = "https://knights-around-the-world.pages.dev/"
 title = "Knights on Tour"
 theme = "beautifulhugo"
 DefaultContentLanguage = "en"
+# Build posts dated in the future — trip chapters are written ahead of the trip
+# (e.g. Europe 2027), so their dates are intentionally in the future.
+buildFuture = true
 
 [pagination]
   pagerSize = 50
