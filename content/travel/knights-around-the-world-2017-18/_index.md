@@ -1,6 +1,7 @@
 ---
-title: "Knights Around the World 2017-18"
+title: "Knights Around the World"
 subtitle: "Our big trip around the USA, Germany and the UK"
+image: "/assets/c041256.jpg"
 ---
 
 In late 2017 Steve & Nicole set off around the world — across the USA from coast to coast,
