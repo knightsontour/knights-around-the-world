@@ -1,6 +1,6 @@
 ---
 title: "Knights Around the World"
-subtitle: "Our big trip around the USA, Germany and the UK"
+subtitle: "Our big trip around the world, visiting the USA, Germany and the UK"
 image: "/assets/c041256.jpg"
 ---
 
