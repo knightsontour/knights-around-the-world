@@ -55,6 +55,11 @@ DefaultContentLanguage = "en"
   url = "/travel/big-lap-2024/"
   weight = 2
 [[menu.main]]
+  parent = "trips"
+  name = "A Midsummer Knight's Dream (Europe 2027)"
+  url = "/travel/europe-2027/"
+  weight = 3
+[[menu.main]]
   name = "Tags"
   url = "/tags/"
   weight = 3
