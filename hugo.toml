@@ -21,7 +21,7 @@ DefaultContentLanguage = "en"
   readingTime = true
   wordCount = true
   socialShare = false
-  showRelatedPosts = true
+  showRelatedPosts = false
   disableFigureOverride = true
   headerImgStyle = "narrow"
   [Params.search]
