@@ -10,7 +10,7 @@ image: "/assets/image_1742030843_1402589904.webp"
 
 *17 October 2024*
 
-We woke up early ([unclear of the time](https://knightridersontour.com/2024/10/15/the-nullarbor-part-2/)) as the sun was rising. We quietly packed up, as considerate campers do, and headed east yet again.
+We woke up early ([unclear of the time](/travel/big-lap-2024/the-nullarbor-part-2/)) as the sun was rising. We quietly packed up, as considerate campers do, and headed east yet again.
 
 ### Eucla
 
@@ -34,7 +34,7 @@ Our first stop was the Old Eucla Telegraph Station, just on the western side of 
 
 As we’d arrived quite early, the morning light was a beautiful golden glow that made this feel like a lost world.
 
-Before we left here, Nicole took a quick photo of one of the two Explorer motorhomes that [we had planned to camp with the previous night](https://knightridersontour.com/2024/10/15/the-nullarbor-part-2/) and who had driven through to here the day before. Nicole sent the photo to them with the comment, “I spy …”
+Before we left here, Nicole took a quick photo of one of the two Explorer motorhomes that [we had planned to camp with the previous night](/travel/big-lap-2024/the-nullarbor-part-2/) and who had driven through to here the day before. Nicole sent the photo to them with the comment, “I spy …”
 
 ![image_1742030844_319028474.webp](/assets/image_1742030844_319028474.webp)
 

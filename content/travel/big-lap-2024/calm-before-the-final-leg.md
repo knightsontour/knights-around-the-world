@@ -9,7 +9,7 @@ weight: 86
 
 *27 November 2024*
 
-Since our [time in the Clare Valley and Barossa Valleys, and Hahndorf](https://knightridersontour.com/2024/11/21/wining-and-dining-in-the-clare-and-barossa-valleys-plus-the-adelaide-hills/), we’ve been taking it *very* easy.
+Since our [time in the Clare Valley and Barossa Valleys, and Hahndorf](/travel/big-lap-2024/wining-and-dining-in-the-clare-and-barossa-valleys-plus-the-adelaide-hills/), we’ve been taking it *very* easy.
 
 After Hahndorf we spent three days in Mount Barker (only a 20 minute drive from Hahndorf) going nowhere, and doing no sightseeing. We *did* watch a movie at the cinemas (*Gladiator II*, not bad actually), do some shopping, a haircut for me and a pedicure for Nicole. Having the caravan park an easy walk from the CBD was very convenient, so we took advantage. I also watched some cricket (until Australia fell in a complete heap) and some F1 motor racing.
 

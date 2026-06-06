@@ -15,7 +15,7 @@ First, on this trip I’ve purchased, photographed, tasted, assessed and written
 
 Second, there are only so many ways I can try to differentiate one sausage roll from the next. Apart from looks, temperature and taste, there isn’t much left to split them, so you’ll see my ratings have become a bit similar.
 
-Third, after our [‘wining and dining’ experiences in the Clare and Barossa Valleys, plus the Adelaide Hills](https://knightridersontour.com/2024/11/21/wining-and-dining-in-the-clare-and-barossa-valleys-plus-the-adelaide-hills/), the *Friday Weigh-ins* have become a bit tight. So best I quit while I’m (just) ahead.
+Third, after our [‘wining and dining’ experiences in the Clare and Barossa Valleys, plus the Adelaide Hills](/travel/big-lap-2024/wining-and-dining-in-the-clare-and-barossa-valleys-plus-the-adelaide-hills/), the *Friday Weigh-ins* have become a bit tight. So best I quit while I’m (just) ahead.
 
 For something that started on a whim when Nicole and I enjoyed our first bakery stop in Roma on Day 4 of our trip, it’s somehow developed a life of its own. It’s also become the most popular part of this blog, with the SRS groupies being led by the Two Gregs (as opposed to [The Two Ronnies](https://en.m.wikipedia.org/wiki/The_Two_Ronnies)). Thanks guys, and sorry.
 
@@ -30,10 +30,10 @@ So, while Western Australia provided the *quantity*, it seems South Australia de
 
 Before I confirm the final SRS Podium, here are some sundry other awards …
 
-- The *Pleasure and Pain Award* goes to [Rusty’s Bakehouse (Derby)](https://knightridersontour.com/2024/06/12/sausage-roll-scorecard-we-have-a-new-leader/) for its wonderful sausage roll, but us nearly being accosted outside.
-- The *Inception Award* goes to [Bakearoma (Roma)](https://knightridersontour.com/2024/04/02/its-a-long-way-to-the-shop-if-you-want-a-sausage-roll/), as that kicked it all off.
-- The *Mother-load Award* goes to [Onslow General Store (Onslow)](https://knightridersontour.com/2024/07/10/sausage-roll-scorecard-pilbara-quadruple-header/) for having a trolley full of sausage rolls.
-- The *Lemon of All Lemons Award* goes to [General Store (Broome)](https://knightridersontour.com/2024/06/25/sausage-roll-scorecard-broome/) for a total and utter sausage roll disaster.
+- The *Pleasure and Pain Award* goes to [Rusty’s Bakehouse (Derby)](/travel/big-lap-2024/sausage-roll-scorecard-we-have-a-new-leader/) for its wonderful sausage roll, but us nearly being accosted outside.
+- The *Inception Award* goes to [Bakearoma (Roma)](/travel/big-lap-2024/its-a-long-way-to-the-shop-if-you-want-a-sausage-roll/), as that kicked it all off.
+- The *Mother-load Award* goes to [Onslow General Store (Onslow)](/travel/big-lap-2024/sausage-roll-scorecard-pilbara-quadruple-header/) for having a trolley full of sausage rolls.
+- The *Lemon of All Lemons Award* goes to [General Store (Broome)](/travel/big-lap-2024/sausage-roll-scorecard-broome/) for a total and utter sausage roll disaster.
 
 Now to the podium …
 

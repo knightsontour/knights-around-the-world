@@ -54,7 +54,7 @@ After swinging back to the unit to collect Katelyn, we headed for Perth Zoo. The
 
 ### Darren and Lansy Part 2
 
-On another night we met up with Nicole’s ex-colleague Darren and his partner Lansy (from [Perth Part 1 — People](https://knightridersontour.com/2024/08/14/perth-part-1-people/) fame) at The Royal in East Perth for drinks and dinner. The location was very, very nice and the company even better. A really fun and pleasant evening. Thanks Darren and Lansy!
+On another night we met up with Nicole’s ex-colleague Darren and his partner Lansy (from [Perth Part 1 — People](/travel/big-lap-2024/perth-part-1-people/) fame) at The Royal in East Perth for drinks and dinner. The location was very, very nice and the company even better. A really fun and pleasant evening. Thanks Darren and Lansy!
 
 ![image_1742030832_38983346.webp](/assets/image_1742030832_38983346.webp)
 

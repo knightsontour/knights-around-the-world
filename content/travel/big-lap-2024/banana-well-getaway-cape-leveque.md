@@ -10,7 +10,7 @@ image: "/assets/image_1742030801_935230018.webp"
 
 *13 June 2024*
 
-After briefly visiting the [Ardyaloon Indigenous Community and Cygnet Bay Pearl Farm at the tip of Cape Leveque](https://knightsj.travelmap.net/admin/map), we drove one third of the way back down the Cape to our resting point for the next two nights — Banana Well Getaway. It was pitched as a very serene, peaceful place to stay, relax, and be close to nature.
+After briefly visiting the [Ardyaloon Indigenous Community and Cygnet Bay Pearl Farm at the tip of Cape Leveque](https://knightsj.travelmap.net/), we drove one third of the way back down the Cape to our resting point for the next two nights — Banana Well Getaway. It was pitched as a very serene, peaceful place to stay, relax, and be close to nature.
 
 On arrival, while talking to one of the managers, we were confronted by a stinking cloud of smoke engulfing everything and everyone. When we asked what this was all about, we were told, “Oh that’s our mosquito control measures. It’s our own special mix of diesel and citronella.”
 

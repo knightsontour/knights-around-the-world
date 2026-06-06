@@ -70,7 +70,7 @@ It will come as no surprise that we quickly ended up extending our one-night sta
 
 ![image_1742030829_40984961.webp](/assets/image_1742030829_40984961.webp)
 
-And, to really relax into the Lucky Bay mood, we cracked a couple of Lucky Bay ‘Figure of 8’ Session Ales (refer [previous post on Esperance](https://knightridersontour.com/2024/09/12/esperance-beaches-a-bakery-and-a-brewery/)). What a way to finish off a busy but great day.
+And, to really relax into the Lucky Bay mood, we cracked a couple of Lucky Bay ‘Figure of 8’ Session Ales (refer [previous post on Esperance](/travel/big-lap-2024/esperance-beaches-a-bakery-and-a-brewery/)). What a way to finish off a busy but great day.
 
 ![image_1742030830_2097397368.webp](/assets/image_1742030830_2097397368.webp)
 

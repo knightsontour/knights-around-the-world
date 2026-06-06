@@ -10,7 +10,7 @@ image: "/assets/image_1742030799_1189743613.webp"
 
 *3 June 2024*
 
-Doesn’t life throw up interesting surprises. After experiencing somewhat of a [sausage roll drought](https://knightridersontour.com/2024/05/27/sausage-roll-scorecard-darwin-update/), over the last week it’s been a “sausage roll tsunami” (some nice alliteration there). Three sausage rolls in a week!
+Doesn’t life throw up interesting surprises. After experiencing somewhat of a [sausage roll drought](/travel/big-lap-2024/sausage-roll-scorecard-darwin-update/), over the last week it’s been a “sausage roll tsunami” (some nice alliteration there). Three sausage rolls in a week!
 
 ### Humpty Doo
 

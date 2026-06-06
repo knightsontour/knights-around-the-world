@@ -10,7 +10,7 @@ image: "/assets/image_1742030802_1696501426.webp"
 
 *14 June 2024*
 
-On Wednesday, 12 June, Nicole and I [reached the Indian Ocean at Broome](https://knightsj.travelmap.net/admin/map). This is somewhat of a milestone, as well as a chance to reflect (and rest).
+On Wednesday, 12 June, Nicole and I [reached the Indian Ocean at Broome](https://knightsj.travelmap.net/). This is somewhat of a milestone, as well as a chance to reflect (and rest).
 
 ![image_1742030802_1696501426.webp](/assets/image_1742030802_1696501426.webp)
 

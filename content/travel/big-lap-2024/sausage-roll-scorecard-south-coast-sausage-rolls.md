@@ -14,7 +14,7 @@ While my scorecard updates have been delayed (too much to see and do), I definit
 
 ### **Denmark Bakery (Denmark)**
 
-As covered in [Beautiful Albany](https://knightridersontour.com/2024/09/10/beautiful-albany/), after doing the treetop walk, we ducked into Denmark for a sausage roll. After having breakfast there that morning too!
+As covered in [Beautiful Albany](/travel/big-lap-2024/beautiful-albany/), after doing the treetop walk, we ducked into Denmark for a sausage roll. After having breakfast there that morning too!
 
 The Denmark Bakery is a multi-award winner on the pie front, however I wasn’t sure how that would translate to their sausage roll offerings. There’s only one way to find out, so I jumped straight in.
 
@@ -34,7 +34,7 @@ In terms of their offering …
 
 ### **Esperance French Hot Bread Shop (Esperance)**
 
-As mentioned in [Esperance — Beaches, a Bakery and a Brewer](https://knightridersontour.com/2024/09/12/esperance-beaches-a-bakery-and-a-brewery/)y, our waterfront and CBD walk required (maybe not *required*) a sausage roll hit for sustenance. The French Hot Bread name suggested the bakers may be Vietnamese (in my experience, a *very* good thing) and they were!
+As mentioned in [Esperance — Beaches, a Bakery and a Brewer](/travel/big-lap-2024/esperance-beaches-a-bakery-and-a-brewery/)y, our waterfront and CBD walk required (maybe not *required*) a sausage roll hit for sustenance. The French Hot Bread name suggested the bakers may be Vietnamese (in my experience, a *very* good thing) and they were!
 
 In terms of their offering …
 

@@ -10,7 +10,7 @@ image: "/assets/image_1742030797_472230777.webp"
 
 *17 May 2024*
 
-Since leaving Toowoomba at the end of the Easter Long Weekend, we’ve been through a few large towns and many quite small ones. And, as has been mentioned in various posts (e.g. regarding [shopping non-times in Windorah](https://knightridersontour.com/2024/04/07/remoteness/)), you are quite limited as to what you can buy and when you can buy it. So, there were some mixed feelings driving into Darwin.
+Since leaving Toowoomba at the end of the Easter Long Weekend, we’ve been through a few large towns and many quite small ones. And, as has been mentioned in various posts (e.g. regarding [shopping non-times in Windorah](/travel/big-lap-2024/remoteness/)), you are quite limited as to what you can buy and when you can buy it. So, there were some mixed feelings driving into Darwin.
 
 There was a sense of *confusion* and *weirdness* about driving in traffic again, with multi-laned intersections etc.
 

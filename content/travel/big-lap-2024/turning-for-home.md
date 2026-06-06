@@ -12,7 +12,7 @@ image: "/assets/image_1742030841_1692794275.webp"
 
 133 days — or nearly 4.5 months — ago, on 31 May, Nicole and I entered Western Australia. Back then, Queensland was still State of Origin Champions, the Broncos were travelling well, and the Lions were travelling terribly. What a difference 133 days can make.
 
-We left the lovely Beach House in Myalup owned by Bruce and Michael (thanks very much guys!) on 8 October, where we spent a [very nice, relaxing week](https://knightsj.travelmap.net/admin/map). This marks the point where we’ve now turned to start heading back home.
+We left the lovely Beach House in Myalup owned by Bruce and Michael (thanks very much guys!) on 8 October, where we spent a [very nice, relaxing week](https://knightsj.travelmap.net/). This marks the point where we’ve now turned to start heading back home.
 
 ![image_1742030841_1692794275.webp](/assets/image_1742030841_1692794275.webp)
 
@@ -24,7 +24,7 @@ We left the lovely Beach House in Myalup owned by Bruce and Michael (thanks very
 
 ![image_1742030841_2105883735.webp](/assets/image_1742030841_2105883735.webp)
 
-From there, we drove to Hyden to spend three nights at [Wave Rock Resort & Caravan Park](https://knightsj.travelmap.net/admin/map), although two nights would have been enough (although we did get our washing done). It was around 37 degrees when we arrived but cooled off to 6 degrees one morning. But OMG, the FLIES!! We’d forgotten how bad flies could be …
+From there, we drove to Hyden to spend three nights at [Wave Rock Resort & Caravan Park](https://knightsj.travelmap.net/), although two nights would have been enough (although we did get our washing done). It was around 37 degrees when we arrived but cooled off to 6 degrees one morning. But OMG, the FLIES!! We’d forgotten how bad flies could be …
 
 ![image_1742030841_1865409492.webp](/assets/image_1742030841_1865409492.webp)
 
