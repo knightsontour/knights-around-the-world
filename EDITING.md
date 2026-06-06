@@ -44,6 +44,20 @@ git commit -m "describe your change"
 git push          # Cloudflare rebuilds in ~1 min
 ```
 
+## Editing on GitHub.com directly is fine too
+
+Any commit to `main` deploys automatically — `git push`, the `⌘⇧P` pipeline, **or** editing a file
+in the GitHub web UI. So tweaking an `_index.md` or `hugo.toml` on github.com works and goes live on
+its own.
+
+**Just remember to sync your local clone afterwards** so it doesn't fall behind GitHub (otherwise
+your next local `git push` hits a conflict):
+
+```bash
+cd ~/GitHub/knights-site
+git pull          # pull down anything you committed on GitHub
+```
+
 ## Adding a brand-new trip (one-time wiring)
 
 The `⌘⇧P` converter creates chapter files but **not** a trip's landing page or menu entry. The first
