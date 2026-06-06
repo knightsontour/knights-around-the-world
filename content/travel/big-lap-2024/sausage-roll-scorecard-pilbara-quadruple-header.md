@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-07-10
 slug: "sausage-roll-scorecard-pilbara-quadruple-header"
-title: "48: Sausage Roll Scorecard — Pilbara Quadruple Header!"
+title: "48: Sausage Roll Scorecard: Pilbara Quadruple Header!"
 weight: 48
 image: "/assets/image_1742030804_2058173417.webp"
 ---

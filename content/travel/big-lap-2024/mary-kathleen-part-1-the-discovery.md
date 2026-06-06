@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-04-13
 slug: "mary-kathleen-part-1-the-discovery"
-title: "15: Mary Kathleen Part 1 — The Discovery"
+title: "15: Mary Kathleen Part 1: The Discovery"
 weight: 15
 image: "/assets/image_1742030794_1468473301.webp"
 ---

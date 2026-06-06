@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-08-20
 slug: "sausage-roll-scorecard-been-busy"
-title: "60: Sausage Roll Scorecard — Been busy"
+title: "60: Sausage Roll Scorecard: Been busy"
 weight: 60
 image: "/assets/image_1742030822_1039672314.webp"
 ---

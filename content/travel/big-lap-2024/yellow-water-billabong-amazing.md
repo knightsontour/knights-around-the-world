@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-05-09
 slug: "yellow-water-billabong-amazing"
-title: "27: Yellow Water Billabong — amazing"
+title: "27: Yellow Water Billabong: amazing"
 weight: 27
 image: "/assets/image_1742030796_1114880224.webp"
 ---

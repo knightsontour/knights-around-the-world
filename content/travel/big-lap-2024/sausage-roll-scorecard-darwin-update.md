@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-05-27
 slug: "sausage-roll-scorecard-darwin-update"
-title: "35: Sausage Roll Scorecard — Darwin update"
+title: "35: Sausage Roll Scorecard: Darwin update"
 weight: 35
 image: "/assets/image_1742030798_584642414.webp"
 ---

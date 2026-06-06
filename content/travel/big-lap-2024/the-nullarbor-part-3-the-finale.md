@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-10-17
 slug: "the-nullarbor-part-3-the-finale"
-title: "76: The Nullarbor — Part 3 (The Finale)"
+title: "76: The Nullarbor: Part 3 (The Finale)"
 weight: 76
 image: "/assets/image_1742030843_1402589904.webp"
 ---

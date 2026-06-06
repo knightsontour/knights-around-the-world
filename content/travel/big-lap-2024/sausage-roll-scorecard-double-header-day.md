@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-08-02
 slug: "sausage-roll-scorecard-double-header-day"
-title: "57: Sausage Roll Scorecard — Double Header Day"
+title: "57: Sausage Roll Scorecard: Double Header Day"
 weight: 57
 image: "/assets/image_1742030817_89628265.webp"
 ---

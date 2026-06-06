@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-04-13
 slug: "mary-kathleen-part-3-the-rescue"
-title: "17: Mary Kathleen Part 3 — The Rescue"
+title: "17: Mary Kathleen Part 3: The Rescue"
 weight: 17
 image: "/assets/image_1742030795_761031529.webp"
 ---

@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-08-25
 slug: "sausage-roll-scorecard-exciting-times-south-of-perth"
-title: "63: Sausage Roll Scorecard — Exciting times south of Perth!"
+title: "63: Sausage Roll Scorecard: Exciting times south of Perth!"
 weight: 63
 image: "/assets/image_1742030826_325429901.webp"
 ---

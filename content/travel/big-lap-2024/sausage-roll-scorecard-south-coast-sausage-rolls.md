@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-09-13
 slug: "sausage-roll-scorecard-south-coast-sausage-rolls"
-title: "68: Sausage Roll Scorecard — South Coast sausage rolls"
+title: "68: Sausage Roll Scorecard: South Coast sausage rolls"
 weight: 68
 image: "/assets/image_1742030830_968752029.webp"
 ---

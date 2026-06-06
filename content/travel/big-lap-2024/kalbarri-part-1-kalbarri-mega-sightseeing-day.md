@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-07-23
 slug: "kalbarri-part-1-kalbarri-mega-sightseeing-day"
-title: "51: Kalbarri (Part 1) — Kalbarri Mega Sightseeing Day"
+title: "51: Kalbarri (Part 1): Kalbarri Mega Sightseeing Day"
 weight: 51
 image: "/assets/image_1742030807_1049553758.webp"
 ---

@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-07-24
 slug: "kalbarri-part-2-relaxing-with-lovely-people"
-title: "52: Kalbarri (Part 2) — Relaxing with lovely people"
+title: "52: Kalbarri (Part 2): Relaxing with lovely people"
 weight: 52
 image: "/assets/image_1742030809_876542647.webp"
 ---

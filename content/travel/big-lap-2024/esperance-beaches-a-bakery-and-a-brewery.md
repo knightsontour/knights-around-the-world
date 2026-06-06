@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-09-12
 slug: "esperance-beaches-a-bakery-and-a-brewery"
-title: "66: Esperance — Beaches, a Bakery and a Brewery"
+title: "66: Esperance: Beaches, a Bakery and a Brewery"
 weight: 66
 image: "/assets/image_1742030827_1488407094.webp"
 ---

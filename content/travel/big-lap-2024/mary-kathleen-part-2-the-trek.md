@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-04-13
 slug: "mary-kathleen-part-2-the-trek"
-title: "16: Mary Kathleen Part 2 — The Trek"
+title: "16: Mary Kathleen Part 2: The Trek"
 weight: 16
 image: "/assets/image_1742030795_1614088007.webp"
 ---

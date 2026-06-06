@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-06-12
 slug: "sausage-roll-scorecard-we-have-a-new-leader"
-title: "40: Sausage Roll Scorecard — we have a new leader!"
+title: "40: Sausage Roll Scorecard: we have a new leader!"
 weight: 40
 image: "/assets/image_1742030801_235605182.webp"
 ---

@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-06-25
 slug: "sausage-roll-scorecard-broome"
-title: "46: Sausage Roll Scorecard — Broome"
+title: "46: Sausage Roll Scorecard: Broome"
 weight: 46
 image: "/assets/image_1742030804_1285075908.webp"
 ---

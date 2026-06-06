@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-08-14
 slug: "perth-part-1-people"
-title: "59: Perth Part 1 — People"
+title: "59: Perth Part 1: People"
 weight: 59
 image: "/assets/image_1742030820_1992724202.webp"
 ---

@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-07-27
 slug: "sausage-roll-scorecard-getting-closer-to-perth"
-title: "54: Sausage Roll Scorecard — Getting closer to Perth"
+title: "54: Sausage Roll Scorecard: Getting closer to Perth"
 weight: 54
 image: "/assets/image_1742030814_1888541973.webp"
 ---

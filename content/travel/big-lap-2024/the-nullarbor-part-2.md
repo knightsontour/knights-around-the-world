@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-10-15
 slug: "the-nullarbor-part-2"
-title: "75: The Nullarbor — Part 2"
+title: "75: The Nullarbor: Part 2"
 weight: 75
 image: "/assets/image_1742030843_565205935.webp"
 ---

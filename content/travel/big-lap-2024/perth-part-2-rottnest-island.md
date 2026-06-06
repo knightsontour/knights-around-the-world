@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-08-21
 slug: "perth-part-2-rottnest-island"
-title: "61: Perth Part 2 — Rottnest Island"
+title: "61: Perth Part 2: Rottnest Island"
 weight: 61
 image: "/assets/image_1742030823_1883963145.webp"
 ---

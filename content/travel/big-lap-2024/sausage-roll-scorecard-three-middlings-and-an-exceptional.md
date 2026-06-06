@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-11-04
 slug: "sausage-roll-scorecard-three-middlings-and-an-exceptional"
-title: "81: Sausage Roll Scorecard — Three Middlings and an Exceptional"
+title: "81: Sausage Roll Scorecard: Three Middlings and an Exceptional"
 weight: 81
 image: "/assets/image_1742030848_1941962710.webp"
 ---

@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-08-24
 slug: "perth-part-3-the-rest"
-title: "62: Perth Part 3 — The Rest"
+title: "62: Perth Part 3: The Rest"
 weight: 62
 image: "/assets/image_1742030824_1721674068.webp"
 ---

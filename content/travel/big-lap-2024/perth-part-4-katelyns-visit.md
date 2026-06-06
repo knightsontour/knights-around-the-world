@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-09-24
 slug: "perth-part-4-katelyns-visit"
-title: "70: Perth Part 4 — Katelyn's visit"
+title: "70: Perth Part 4: Katelyn's visit"
 weight: 70
 image: "/assets/image_1742030831_583125939.webp"
 ---

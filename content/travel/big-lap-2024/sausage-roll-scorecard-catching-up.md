@@ -2,7 +2,7 @@
 tags: [travel, big-lap, australia]
 date: 2024-10-19
 slug: "sausage-roll-scorecard-catching-up"
-title: "77: Sausage Roll Scorecard — Catching up"
+title: "77: Sausage Roll Scorecard: Catching up"
 weight: 77
 image: "/assets/image_1742030847_668821210.webp"
 ---
